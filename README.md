@@ -2,7 +2,8 @@
 <H3>Register no : 212223220056</H3>
 <H3>Date : 24/03/2025</H3>
 <H3>Experiment No. 2 </H3>
-               # Implementation of Perceptron for Binary Classification
+  
+  # Implementation of Perceptron for Binary Classification
  
 # AIM:
 To implement a perceptron for classification using Python<BR>
@@ -42,6 +43,7 @@ STEP 4:Split the dataset for training and testing<BR>
 STEP 5:Define the input vector ‘X’ from the training dataset<BR>
 STEP 6:Define the desired output vector ‘Y’ scaled to +1 or -1 for two classes C1 and C2<BR>
 STEP 7:Assign Initial Weight vector ‘W’ as 0 as the dimension of ‘X’
+
 STEP 8:Assign the learning rate<BR>
 STEP 9:For ‘N ‘ iterations ,do the following:<BR>
         v(i) = w(i)*x(i)<BR>
